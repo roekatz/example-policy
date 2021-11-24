@@ -2,6 +2,7 @@
   "users": {
     "alice": {
       "roles": [
+	"admin"
       ],
       "email": "alice@gmail.com"
     },
