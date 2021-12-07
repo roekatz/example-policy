@@ -3,20 +3,20 @@
     "alice": {
       "roles": [
       ],
-      "email": "alice@gmail.com"
+      "email": "alice@example.com"
     },
     "bob": {
       "roles": [
         "employee",
         "billing"
       ],
-      "email": "bob@gmail.com"
+      "email": "bob@example.com"
     },
     "eve": {
       "roles": [
         "customer"
       ],
-      "email": "eve@gmail.com"
+      "email": "eve@example.com"
     }
   }
 }
