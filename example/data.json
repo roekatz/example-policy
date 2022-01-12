@@ -21,7 +21,8 @@
     },
     "eve": {
       "roles": [
-        "customer"
+        "customer",
+        "billing"
       ],
       "location": {
         "country": "US",
