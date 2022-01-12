@@ -2,7 +2,7 @@ package app.rbac
 
 billing_users[users]{
   some user, i
-  data.example.users[user].roles[i] == "admin"
+  data.example.users[user].roles[i] == "billing"
   users := user
 }
 
