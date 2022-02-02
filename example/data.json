@@ -2,8 +2,7 @@
   "users": {
     "alice": {
       "roles": [
-        "admin",
-        "billing"
+        "admin"
       ],
       "location": {
         "country": "Israel",
