@@ -3,3 +3,5 @@ hasPermission(grants, roles) {
 	grants[_] == roles[_]
 }
 
+# ok
+
