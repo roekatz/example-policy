@@ -5,3 +5,4 @@ hasPermission(grants, roles) {
 
 # ok
 # another comment
+# another §
